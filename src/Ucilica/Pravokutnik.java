@@ -7,6 +7,7 @@ public class Pravokutnik {
 
     //Konsturktor
     public Pravokutnik(String velikiPravokutnik, int stranica1, int stranica2) {
+        this.velikiPravokutnik = velikiPravokutnik;
         this.stranica1 = stranica1;
         this.stranica2 = stranica2;
     }

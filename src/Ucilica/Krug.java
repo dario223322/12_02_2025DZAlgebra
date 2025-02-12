@@ -6,6 +6,7 @@ public class Krug {
 
 // Konstruktor
     public Krug(String velikiKrug, double radijus) {
+        this.velikiKrug = velikiKrug;
         this.radijus = radijus;
     }
 }
